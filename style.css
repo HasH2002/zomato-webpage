@@ -35,7 +35,7 @@ body {
   border: 2px solid #ff6767;
   cursor: pointer;
 }
-@media (min-width: 768) {
+@media (min-width: 768px) {
   .navbar {
     justify-content: space-between;
     padding: 10px 20px;
